@@ -1,0 +1,21 @@
+p{
+    text-decoration: underline;
+}
+#nature{
+    background-color: "green";
+    border:1px solid black;
+}
+.one{
+    background-color: "red";
+    border:"none!important";
+}
+div{
+    font-size:64px;
+    color:"pink";
+}
+div{
+    font-size:"30px";
+    color:"white";
+    background-color:"yellow";
+    marigin:"10px";
+}
